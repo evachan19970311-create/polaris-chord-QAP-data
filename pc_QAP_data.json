@@ -8630,5 +8630,31 @@
         "crewid": "-"
       }
     ]
+  },
+  {
+    "data_count": 333,
+    "music_id": "609970ef44db1e3ba5e1cc035bac431f",
+    "music_title": "ダーリンダンス",
+    "diff_name": "inf",
+    "date_value": 1774882800000,
+    "display_date": "2026/03/31",
+    "members": [
+      {
+        "name": "☆ミオタウロス☆",
+        "crewid": "-"
+      },
+      {
+        "name": "へやっちょ",
+        "crewid": "-"
+      },
+      {
+        "name": "でぃばにけ",
+        "crewid": "-"
+      },
+      {
+        "name": "sakimaki(・△・",
+        "crewid": "-"
+      }
+    ]
   }
 ]
