@@ -8604,5 +8604,31 @@
         "crewid": "-"
       }
     ]
+  },
+  {
+    "data_count": 332,
+    "music_id": "6306f44cfa8b06280172f3578c3067ba",
+    "music_title": "ボッカデラベリタ",
+    "diff_name": "inf",
+    "date_value": 1774882800000,
+    "display_date": "2026/03/31",
+    "members": [
+      {
+        "name": "-<TsukanA>-",
+        "crewid": "-"
+      },
+      {
+        "name": "ひなの",
+        "crewid": "-"
+      },
+      {
+        "name": "CANDY?",
+        "crewid": "-"
+      },
+      {
+        "name": "でぃばにけ",
+        "crewid": "-"
+      }
+    ]
   }
 ]
