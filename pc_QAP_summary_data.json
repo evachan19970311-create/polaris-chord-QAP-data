@@ -933,7 +933,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.1,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 104,
@@ -942,7 +942,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 105,
@@ -996,7 +996,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.5,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 111,
@@ -1005,7 +1005,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 112,
@@ -1014,7 +1014,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.5,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 113,
@@ -1023,7 +1023,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 114,
@@ -1032,7 +1032,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 115,
@@ -1041,7 +1041,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 116,
@@ -1050,7 +1050,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.3,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 117,
@@ -1059,7 +1059,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 118,
@@ -1068,7 +1068,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.2,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 119,
@@ -1077,7 +1077,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.1,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 120,
@@ -1086,7 +1086,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.6,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 121,
@@ -1095,7 +1095,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.6,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 122,
@@ -1104,7 +1104,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 123,
@@ -1113,7 +1113,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 124,
@@ -1122,7 +1122,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 125,
@@ -1131,7 +1131,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.8,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 126,
@@ -1140,7 +1140,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 127,
@@ -1149,7 +1149,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.3,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 128,
@@ -1158,7 +1158,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.8,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 129,
@@ -1167,7 +1167,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 130,
@@ -1176,7 +1176,7 @@
     "diff_name": "inf",
     "level": 10,
     "music_const": 10.6,
-    "QAP_count": ""
+    "QAP_count": 3
   },
   {
     "data_index": 131,
@@ -1185,7 +1185,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 132,
@@ -1194,7 +1194,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 133,
@@ -1203,7 +1203,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.2,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 134,
@@ -1212,7 +1212,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.1,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 135,
@@ -1221,7 +1221,7 @@
     "diff_name": "inf",
     "level": "10+",
     "music_const": 10.9,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 136,
@@ -1230,7 +1230,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 137,
@@ -1239,7 +1239,7 @@
     "diff_name": "inf",
     "level": "10+",
     "music_const": 10.7,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 138,
@@ -1248,7 +1248,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 139,
@@ -1257,7 +1257,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.3,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 140,
@@ -1266,7 +1266,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 141,
@@ -1275,7 +1275,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 142,
@@ -1284,7 +1284,7 @@
     "diff_name": "inf",
     "level": 10,
     "music_const": 10.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 143,
@@ -1293,7 +1293,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 144,
@@ -1302,7 +1302,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 145,
@@ -1311,7 +1311,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.1,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 146,
@@ -1320,7 +1320,7 @@
     "diff_name": "inf",
     "level": "10+",
     "music_const": 10.9,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 147,
@@ -1329,7 +1329,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 148,
@@ -1338,7 +1338,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 149,
@@ -1347,7 +1347,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 150,
@@ -1356,7 +1356,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 151,
@@ -1365,7 +1365,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 152,
@@ -1374,7 +1374,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.6,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 153,
@@ -1383,7 +1383,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.3,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 154,
@@ -1392,7 +1392,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.8,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 155,
@@ -1401,7 +1401,7 @@
     "diff_name": "inf",
     "level": 10,
     "music_const": 10.6,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 156,
@@ -1410,7 +1410,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.8,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 157,
@@ -1419,7 +1419,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.5,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 158,
@@ -1428,7 +1428,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.5,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 159,
@@ -1437,7 +1437,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.8,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 160,
@@ -1446,7 +1446,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.5,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 161,
@@ -1455,7 +1455,7 @@
     "diff_name": "inf",
     "level": "10+",
     "music_const": 10.9,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 162,
@@ -1464,7 +1464,7 @@
     "diff_name": "inf",
     "level": 9,
     "music_const": 9,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 163,
@@ -1473,7 +1473,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.5,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 164,
@@ -1482,7 +1482,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.8,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 165,
@@ -1491,7 +1491,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.2,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 166,
@@ -1500,7 +1500,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.3,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 167,
@@ -1509,7 +1509,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.3,
-    "QAP_count": ""
+    "QAP_count": 3
   },
   {
     "data_index": 168,
@@ -1518,7 +1518,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 169,
@@ -1527,7 +1527,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 170,
@@ -1536,7 +1536,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 171,
@@ -1545,7 +1545,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.1,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 172,
@@ -1554,7 +1554,7 @@
     "diff_name": "inf",
     "level": 10,
     "music_const": 10.3,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 173,
@@ -1563,7 +1563,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 174,
@@ -1572,7 +1572,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 175,
@@ -1581,7 +1581,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 176,
@@ -1590,7 +1590,7 @@
     "diff_name": "inf",
     "level": "13+",
     "music_const": 13.8,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 177,
@@ -1599,7 +1599,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.3,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 178,
@@ -1608,7 +1608,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 179,
@@ -1617,7 +1617,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.5,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 180,
@@ -1626,7 +1626,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 181,
@@ -1635,7 +1635,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 182,
@@ -1644,7 +1644,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 183,
@@ -1653,7 +1653,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.3,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 184,
@@ -1662,7 +1662,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.2,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 185,
@@ -1671,7 +1671,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 186,
@@ -1680,7 +1680,7 @@
     "diff_name": "inf",
     "level": 10,
     "music_const": 10.6,
-    "QAP_count": ""
+    "QAP_count": 4
   },
   {
     "data_index": 187,
@@ -1689,7 +1689,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11,
-    "QAP_count": ""
+    "QAP_count": 3
   },
   {
     "data_index": 188,
@@ -1698,7 +1698,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.2,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 189,
@@ -1707,7 +1707,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.1,
-    "QAP_count": ""
+    "QAP_count": 4
   },
   {
     "data_index": 190,
@@ -1716,7 +1716,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 191,
@@ -1725,7 +1725,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.3,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 192,
@@ -1734,7 +1734,7 @@
     "diff_name": "inf",
     "level": 10,
     "music_const": 10.6,
-    "QAP_count": ""
+    "QAP_count": 5
   },
   {
     "data_index": 193,
@@ -1743,7 +1743,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 194,
@@ -1752,7 +1752,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.3,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 195,
@@ -1761,7 +1761,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 196,
@@ -1770,7 +1770,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.5,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 197,
@@ -1779,7 +1779,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.5,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 198,
@@ -1788,7 +1788,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 199,
@@ -1797,7 +1797,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.8,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 200,
@@ -1806,7 +1806,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 201,
@@ -1815,7 +1815,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 202,
@@ -1824,7 +1824,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.8,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 203,
@@ -1833,7 +1833,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.6,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 204,
@@ -1842,7 +1842,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.8,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 205,
@@ -1851,7 +1851,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 206,
@@ -1860,7 +1860,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 207,
@@ -1869,7 +1869,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.2,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 208,
@@ -1878,7 +1878,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.2,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 209,
@@ -1887,7 +1887,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 210,
@@ -1896,7 +1896,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 211,
@@ -1905,7 +1905,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 212,
@@ -1914,7 +1914,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.5,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 213,
@@ -1923,7 +1923,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 214,
@@ -1932,7 +1932,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.5,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 215,
@@ -1941,7 +1941,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.5,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 216,
@@ -1950,7 +1950,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 217,
@@ -1959,7 +1959,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 218,
@@ -1968,7 +1968,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 219,
@@ -1977,7 +1977,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 220,
@@ -1986,7 +1986,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 221,
@@ -1995,7 +1995,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.8,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 222,
@@ -2004,7 +2004,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 3
   },
   {
     "data_index": 223,
@@ -2013,7 +2013,7 @@
     "diff_name": "inf",
     "level": "13+",
     "music_const": 13.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 224,
@@ -2022,7 +2022,7 @@
     "diff_name": "inf",
     "level": "13+",
     "music_const": 13.8,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 225,
@@ -2031,7 +2031,7 @@
     "diff_name": "inf",
     "level": 14,
     "music_const": 14.4,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 226,
@@ -2040,7 +2040,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.4,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 227,
@@ -2049,7 +2049,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 228,
@@ -2058,7 +2058,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 229,
@@ -2067,7 +2067,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 230,
@@ -2076,7 +2076,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 231,
@@ -2085,7 +2085,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 232,
@@ -2094,7 +2094,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.4,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 233,
@@ -2103,7 +2103,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 234,
@@ -2112,7 +2112,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 235,
@@ -2121,7 +2121,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.7,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 236,
@@ -2130,7 +2130,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 237,
@@ -2139,7 +2139,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 238,
@@ -2148,7 +2148,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.8,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 239,
@@ -2157,7 +2157,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 240,
@@ -2166,7 +2166,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.3,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 241,
@@ -2175,7 +2175,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.3,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 242,
@@ -2184,7 +2184,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.9,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 243,
@@ -2193,7 +2193,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 244,
@@ -2202,7 +2202,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.2,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 245,
@@ -2211,7 +2211,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 246,
@@ -2220,7 +2220,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.3,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 247,
@@ -2229,7 +2229,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 248,
@@ -2238,7 +2238,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11,
-    "QAP_count": ""
+    "QAP_count": 5
   },
   {
     "data_index": 249,
@@ -2247,7 +2247,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 250,
@@ -2256,7 +2256,7 @@
     "diff_name": "inf",
     "level": 10,
     "music_const": 10.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 251,
@@ -2265,7 +2265,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.4,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 252,
@@ -2274,7 +2274,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.2,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 253,
@@ -2283,7 +2283,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 254,
@@ -2292,7 +2292,7 @@
     "diff_name": "inf",
     "level": 11,
     "music_const": 11.6,
-    "QAP_count": ""
+    "QAP_count": 1
   },
   {
     "data_index": 255,
@@ -2301,7 +2301,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.6,
-    "QAP_count": ""
+    "QAP_count": 2
   },
   {
     "data_index": 256,
@@ -2310,7 +2310,7 @@
     "diff_name": "inf",
     "level": 10,
     "music_const": 10.5,
-    "QAP_count": ""
+    "QAP_count": 5
   },
   {
     "data_index": 257,
@@ -2319,7 +2319,7 @@
     "diff_name": "inf",
     "level": 13,
     "music_const": 13.6,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 258,
@@ -2328,7 +2328,7 @@
     "diff_name": "inf",
     "level": "12+",
     "music_const": 12.7,
-    "QAP_count": ""
+    "QAP_count": 0
   },
   {
     "data_index": 259,
