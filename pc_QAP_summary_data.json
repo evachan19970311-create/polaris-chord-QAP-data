@@ -3426,7 +3426,7 @@
     "diff_name": "inf",
     "level": 12,
     "music_const": 12.4,
-    "QAP_count": 0
+    "QAP_count": 1
   },
   {
     "data_index": 381,
@@ -3435,7 +3435,7 @@
     "diff_name": "inf",
     "level": "11+",
     "music_const": 11.9,
-    "QAP_count": 0
+    "QAP_count": 1
   },
   {
     "data_index": 382,
