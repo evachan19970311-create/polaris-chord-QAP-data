@@ -193,7 +193,7 @@ async function handleSummaryDataCommand_(interaction) {
   try {
     const response = await gasClient.post("", {
       type: "summarydata",
-      secret: GAS_SECRET,
+      secret: CONFIG.GAS_SHARED_SECRET,
     });
 
     if (response.data && response.data.ok === false) {
@@ -213,7 +213,7 @@ async function handleMusicDataCommand_(interaction) {
   try {
     const response = await gasClient.post("", {
       type: "musicdata",
-      secret: GAS_SECRET,
+      secret: CONFIG.GAS_SHARED_SECRET,
     });
 
     if (response.data && response.data.ok === false) {
@@ -233,7 +233,7 @@ async function handleJsonPushCommand_(interaction) {
   try {
     const response = await gasClient.post("", {
       type: "musicdata",
-      secret: GAS_SECRET,
+      secret: CONFIG.GAS_SHARED_SECRET,
     });
 
     if (response.data && response.data.ok === false) {
