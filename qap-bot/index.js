@@ -187,65 +187,6 @@ async function handleQapCommand_(interaction) {
   }
 }
 
-async function handleSummaryDataCommand_(interaction) {
-  await interaction.deferReply();
-
-  try {
-    const response = await gasClient.post("", {
-      type: "summarydata",
-      secret: CONFIG.GAS_SHARED_SECRET,
-    });
-
-    if (response.data && response.data.ok === false) {
-      throw new Error(response.data.error || "GAS側でエラーが発生しました");
-    }
-
-    await interaction.editReply("summary_dataシート更新完了");
-  } catch (error) {
-    console.error("qap post error:", error?.response?.data || error);
-    await interaction.editReply("更新中にエラーが発生しました。GASログを確認してください。");
-  }
-}
-
-async function handleMusicDataCommand_(interaction) {
-  await interaction.deferReply();
-
-  try {
-    const response = await gasClient.post("", {
-      type: "musicdata",
-      secret: CONFIG.GAS_SHARED_SECRET,
-    });
-
-    if (response.data && response.data.ok === false) {
-      throw new Error(response.data.error || "GAS側でエラーが発生しました");
-    }
-
-    await interaction.editReply("music_dataシート更新完了");
-  } catch (error) {
-    console.error("qap post error:", error?.response?.data || error);
-    await interaction.editReply("更新中にエラーが発生しました。GASログを確認してください。");
-  }
-}
-
-async function handleJsonPushCommand_(interaction) {
-  await interaction.deferReply();
-
-  try {
-    const response = await gasClient.post("", {
-      type: "musicdata",
-      secret: CONFIG.GAS_SHARED_SECRET,
-    });
-
-    if (response.data && response.data.ok === false) {
-      throw new Error(response.data.error || "GAS側でエラーが発生しました");
-    }
-
-    await interaction.editReply("JSONをGithubへプッシュ完了");
-  } catch (error) {
-    console.error("qap post error:", error?.response?.data || error);
-    await interaction.editReply("プッシュ中にエラーが発生しました。GASログを確認してください。");
-  }
-}
 
 client.once(Events.ClientReady, async (readyClient) => {
   console.log(`ログイン成功: ${readyClient.user.tag}`);
@@ -270,18 +211,6 @@ client.on(Events.InteractionCreate, async (interaction) => {
     switch (interaction.commandName) {
       case "qap":
         await handleQapCommand_(interaction);
-        break;
-
-      case "summarydata":
-        await handleSummaryDataCommand_(interaction);
-        break;
-
-      case "musicdata":
-        await handleMusicDataCommand_(interaction);
-        break;
-
-      case "jsonpush":
-        await handleJsonPushCommand_(interaction);
         break;
 
       default:
