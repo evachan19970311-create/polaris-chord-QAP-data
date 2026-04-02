@@ -8656,5 +8656,31 @@
         "crewid": "-"
       }
     ]
+  },
+  {
+    "data_count": 334,
+    "music_id": "55dcb7f0657cfa3907c6016fc1ed82ce",
+    "music_title": "魔法少女とチョコレゐト (絲依とい Cover)",
+    "diff_name": "inf",
+    "date_value": 1775055600000,
+    "display_date": "2026/04/02",
+    "members": [
+      {
+        "name": "EXT",
+        "crewid": "-"
+      },
+      {
+        "name": "めいびーねいびー",
+        "crewid": "-"
+      },
+      {
+        "name": "くぜあいりす",
+        "crewid": "-"
+      },
+      {
+        "name": "かわうそ",
+        "crewid": "-"
+      }
+    ]
   }
 ]
