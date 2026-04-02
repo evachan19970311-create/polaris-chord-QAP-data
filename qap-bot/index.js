@@ -187,6 +187,39 @@ async function handleQapCommand_(interaction) {
   }
 }
 
+async function handleSummaryDataCommand_(interaction) {
+  await interaction.deferReply();
+
+  const res = await axios.post(GAS_URL, {
+    type: "summarydata",
+    secret: GAS_SECRET,
+  });
+
+  await interaction.editReply(res.data.message || "summary_dataシート更新完了");
+}
+
+async function handleMusicDataCommand_(interaction) {
+  await interaction.deferReply();
+
+  const res = await axios.post(GAS_URL, {
+    type: "musicdata",
+    secret: GAS_SECRET,
+  });
+
+  await interaction.editReply(res.data.message || "music_dataシート更新完了");
+}
+
+async function handleJsonPushCommand_(interaction) {
+  await interaction.deferReply();
+
+  const res = await axios.post(GAS_URL, {
+    type: "jsonpush",
+    secret: GAS_SECRET,
+  });
+
+  await interaction.editReply(res.data.message || "JSONをGithubへプッシュ完了");
+}
+
 client.once(Events.ClientReady, async (readyClient) => {
   console.log(`ログイン成功: ${readyClient.user.tag}`);
 
@@ -211,6 +244,19 @@ client.on(Events.InteractionCreate, async (interaction) => {
       case "qap":
         await handleQapCommand_(interaction);
         break;
+
+      case "summarydata":
+        await handleSummaryDataCommand_(interaction);
+        break;
+
+      case "musicdata":
+        await handleMusicDataCommand_(interaction);
+        break;
+
+      case "jsonpush":
+        await handleJsonPushCommand_(interaction);
+        break;
+
       default:
         break;
     }
