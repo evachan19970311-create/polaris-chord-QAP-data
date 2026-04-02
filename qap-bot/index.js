@@ -190,34 +190,61 @@ async function handleQapCommand_(interaction) {
 async function handleSummaryDataCommand_(interaction) {
   await interaction.deferReply();
 
-  const res = await axios.post(GAS_URL, {
-    type: "summarydata",
-    secret: GAS_SECRET,
-  });
+  try {
+    const response = await gasClient.post("", {
+      type: "summarydata",
+      secret: GAS_SECRET,
+    });
 
-  await interaction.editReply(res.data.message || "summary_dataシート更新完了");
+    if (response.data && response.data.ok === false) {
+      throw new Error(response.data.error || "GAS側でエラーが発生しました");
+    }
+
+    await interaction.editReply("summary_dataシート更新完了");
+  } catch (error) {
+    console.error("qap post error:", error?.response?.data || error);
+    await interaction.editReply("更新中にエラーが発生しました。GASログを確認してください。");
+  }
 }
 
 async function handleMusicDataCommand_(interaction) {
   await interaction.deferReply();
 
-  const res = await axios.post(GAS_URL, {
-    type: "musicdata",
-    secret: GAS_SECRET,
-  });
+  try {
+    const response = await gasClient.post("", {
+      type: "musicdata",
+      secret: GAS_SECRET,
+    });
 
-  await interaction.editReply(res.data.message || "music_dataシート更新完了");
+    if (response.data && response.data.ok === false) {
+      throw new Error(response.data.error || "GAS側でエラーが発生しました");
+    }
+
+    await interaction.editReply("music_dataシート更新完了");
+  } catch (error) {
+    console.error("qap post error:", error?.response?.data || error);
+    await interaction.editReply("更新中にエラーが発生しました。GASログを確認してください。");
+  }
 }
 
 async function handleJsonPushCommand_(interaction) {
   await interaction.deferReply();
 
-  const res = await axios.post(GAS_URL, {
-    type: "jsonpush",
-    secret: GAS_SECRET,
-  });
+  try {
+    const response = await gasClient.post("", {
+      type: "musicdata",
+      secret: GAS_SECRET,
+    });
 
-  await interaction.editReply(res.data.message || "JSONをGithubへプッシュ完了");
+    if (response.data && response.data.ok === false) {
+      throw new Error(response.data.error || "GAS側でエラーが発生しました");
+    }
+
+    await interaction.editReply("JSONをGithubへプッシュ完了");
+  } catch (error) {
+    console.error("qap post error:", error?.response?.data || error);
+    await interaction.editReply("プッシュ中にエラーが発生しました。GASログを確認してください。");
+  }
 }
 
 client.once(Events.ClientReady, async (readyClient) => {
