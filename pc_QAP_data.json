@@ -8682,31 +8682,5 @@
         "crewid": "-"
       }
     ]
-  },
-  {
-    "data_count": 335,
-    "music_id": "77b0f98b7f247b0251da420959ed4717",
-    "music_title": "Crossfade",
-    "diff_name": "inf",
-    "date_value": 1669042800000,
-    "display_date": "2022/11/22",
-    "members": [
-      {
-        "name": "a",
-        "crewid": "-"
-      },
-      {
-        "name": "s",
-        "crewid": "-"
-      },
-      {
-        "name": "d",
-        "crewid": "-"
-      },
-      {
-        "name": "f",
-        "crewid": "-"
-      }
-    ]
   }
 ]
