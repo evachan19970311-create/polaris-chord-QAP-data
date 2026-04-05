@@ -8682,5 +8682,57 @@
         "crewid": "-"
       }
     ]
+  },
+  {
+    "data_count": 335,
+    "music_id": "55dcb7f0657cfa3907c6016fc1ed82ce",
+    "music_title": "魔法少女とチョコレゐト (絲依とい Cover)",
+    "diff_name": "inf",
+    "date_value": 1775228400000,
+    "display_date": "2026/04/04",
+    "members": [
+      {
+        "name": "くぜあいりす",
+        "crewid": "-"
+      },
+      {
+        "name": "ぶよどん",
+        "crewid": "-"
+      },
+      {
+        "name": "sakimaki(・△・",
+        "crewid": "-"
+      },
+      {
+        "name": "げいにんやめれないうさぎ",
+        "crewid": "-"
+      }
+    ]
+  },
+  {
+    "data_count": 336,
+    "music_id": "55dcb7f0657cfa3907c6016fc1ed82ce",
+    "music_title": "魔法少女とチョコレゐト (絲依とい Cover)",
+    "diff_name": "inf",
+    "date_value": 1775228400000,
+    "display_date": "2026/04/04",
+    "members": [
+      {
+        "name": "くぜあいりす",
+        "crewid": "-"
+      },
+      {
+        "name": "おにぎらず",
+        "crewid": "-"
+      },
+      {
+        "name": "ぶよどん",
+        "crewid": "-"
+      },
+      {
+        "name": "げいにんやめれないうさぎ",
+        "crewid": "-"
+      }
+    ]
   }
 ]
