@@ -5,6 +5,7 @@
     "music_title": "Crossfade",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.2,
     "QAP_count": 5
   },
@@ -13,7 +14,8 @@
     "music_id": "8cf4ddbdc70fd5fbd9bc93a0afd0ec07",
     "music_title": "ぐしゃ",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 1
   },
@@ -23,6 +25,7 @@
     "music_title": "アイドル",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11,
     "QAP_count": 3
   },
@@ -32,6 +35,7 @@
     "music_title": "神っぽいな",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.1,
     "QAP_count": 1
   },
@@ -41,6 +45,7 @@
     "music_title": "強風オールバック",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 1
   },
@@ -50,6 +55,7 @@
     "music_title": "エイリアンエイリアン (富士葵 Cover)",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -59,6 +65,7 @@
     "music_title": "Accelerate",
     "diff_name": "hard",
     "level": 6,
+    "level_disp": 6,
     "music_const": 6,
     "QAP_count": 0
   },
@@ -68,6 +75,7 @@
     "music_title": "ホイホイ☆幻想ホロイズム",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.2,
     "QAP_count": 1
   },
@@ -77,6 +85,7 @@
     "music_title": "Oh wow!",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.3,
     "QAP_count": 1
   },
@@ -86,6 +95,7 @@
     "music_title": "インドア系ならトラックメイカー",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.5,
     "QAP_count": 2
   },
@@ -95,6 +105,7 @@
     "music_title": "#あくあ色ぱれっと",
     "diff_name": "inf",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 3
   },
@@ -104,6 +115,7 @@
     "music_title": "放課後ストライド",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.1,
     "QAP_count": 1
   },
@@ -113,6 +125,7 @@
     "music_title": "KING",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 1
   },
@@ -122,6 +135,7 @@
     "music_title": "エゴロック",
     "diff_name": "hard",
     "level": 7,
+    "level_disp": 7,
     "music_const": 7,
     "QAP_count": 1
   },
@@ -131,6 +145,7 @@
     "music_title": "ロキ",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 1
   },
@@ -140,6 +155,7 @@
     "music_title": "ロストワンの号哭",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -149,6 +165,7 @@
     "music_title": "ヒトガタ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12,
     "QAP_count": 1
   },
@@ -158,6 +175,7 @@
     "music_title": "Hello, Hologram",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -167,6 +185,7 @@
     "music_title": "空っぽの箱庭",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -175,7 +194,8 @@
     "music_id": "134595e72024cd95cdc8a1e0dbcab8ed",
     "music_title": "Raise your voice!",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 1
   },
@@ -185,6 +205,7 @@
     "music_title": "少女レイ",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 1
   },
@@ -194,6 +215,7 @@
     "music_title": "シアワセうさぎ・ぺこみこマリン",
     "diff_name": "inf",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 1
   },
@@ -203,6 +225,7 @@
     "music_title": "キャプテン・マリンのケツアンカー",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 0
   },
@@ -211,7 +234,8 @@
     "music_id": "69051b33a543f6ba31225636910ce6f8",
     "music_title": "イヤホンロマンス",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 0
   },
@@ -221,6 +245,7 @@
     "music_title": "Over the Border",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.2,
     "QAP_count": 0
   },
@@ -230,6 +255,7 @@
     "music_title": "Help me, ERINNNNNN!! #幻想郷ホロイズムver.",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.5,
     "QAP_count": 0
   },
@@ -239,6 +265,7 @@
     "music_title": "閃光花火",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -248,6 +275,7 @@
     "music_title": "逆転劇",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 0
   },
@@ -257,6 +285,7 @@
     "music_title": "ラヴィット",
     "diff_name": "hard",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 0
   },
@@ -266,6 +295,7 @@
     "music_title": "秘密のメリーゴーランド",
     "diff_name": "hard",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 1
   },
@@ -274,7 +304,8 @@
     "music_id": "ce7d57d1319af742cea4fe4b3878dd68",
     "music_title": "UMenity",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 2
   },
@@ -283,7 +314,8 @@
     "music_id": "0fb27e25ec15337d8c0fa5e6e45e067a",
     "music_title": "Nobody knows",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -293,6 +325,7 @@
     "music_title": "トウキョウ・シャンディ・ランデヴ",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 0
   },
@@ -301,7 +334,8 @@
     "music_id": "5a1dcd0c41a66f700801e9b4f9ebd19d",
     "music_title": "What an amazing swing",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -311,6 +345,7 @@
     "music_title": "ヴァンパイア",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11,
     "QAP_count": 3
   },
@@ -319,7 +354,8 @@
     "music_id": "0d96df03e20ced25c4c97484fd68ef3c",
     "music_title": "デンノウス・キルズ",
     "diff_name": "hard",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.9,
     "QAP_count": 0
   },
@@ -328,7 +364,8 @@
     "music_id": "6e1c9d51b17cc467633ce6ff8e1dd312",
     "music_title": "エゴロック (すりぃ Cover)",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.8,
     "QAP_count": 1
   },
@@ -338,6 +375,7 @@
     "music_title": "ロキ (HIMEHINA Cover)",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11,
     "QAP_count": 6
   },
@@ -347,6 +385,7 @@
     "music_title": "シンクロニティ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 2
   },
@@ -355,7 +394,8 @@
     "music_id": "9e68dedaad4e106d5dbd2c2b5398fb7e",
     "music_title": "抜刀",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 0
   },
@@ -365,6 +405,7 @@
     "music_title": "魔法少女とチョコレゐト (絲依とい Cover)",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.6,
     "QAP_count": 18
   },
@@ -374,6 +415,7 @@
     "music_title": "魔法少女とチョコレゐト",
     "diff_name": "hard",
     "level": 7,
+    "level_disp": 7,
     "music_const": 7,
     "QAP_count": 3
   },
@@ -383,6 +425,7 @@
     "music_title": "少女レイ (緋月ゆい Cover)",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 2
   },
@@ -392,6 +435,7 @@
     "music_title": "ラグトレイン",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.6,
     "QAP_count": 2
   },
@@ -400,7 +444,8 @@
     "music_id": "d734a3d4482ddfea507c18006cb72c08",
     "music_title": "感情ディシーブ",
     "diff_name": "hard",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.9,
     "QAP_count": 0
   },
@@ -410,6 +455,7 @@
     "music_title": "イタズラネコライフ",
     "diff_name": "hard",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 0
   },
@@ -418,7 +464,8 @@
     "music_id": "9a50b257302539e1d702ae45d8a566c4",
     "music_title": "#病みカワ",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 5
   },
@@ -427,7 +474,8 @@
     "music_id": "0c84062d605fdb2d0b02d2df00daf0e4",
     "music_title": "Oh my！Follow me",
     "diff_name": "hard",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.9,
     "QAP_count": 0
   },
@@ -437,6 +485,7 @@
     "music_title": "粛聖!! ロリ神レクイエム☆",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.1,
     "QAP_count": 2
   },
@@ -446,6 +495,7 @@
     "music_title": "シャングリラ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 0
   },
@@ -455,6 +505,7 @@
     "music_title": "バタフライエフェクト",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 3
   },
@@ -463,7 +514,8 @@
     "music_id": "9dfa555af968dc8b77104f2bf218acc4",
     "music_title": "追熟",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.9,
     "QAP_count": 1
   },
@@ -473,6 +525,7 @@
     "music_title": "レクイエム (feat. 星街すいせい)",
     "diff_name": "inf",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 2
   },
@@ -481,7 +534,8 @@
     "music_id": "dfc3dcf93e5af7e957064926c9cba725",
     "music_title": "ファビュラス",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.8,
     "QAP_count": 1
   },
@@ -490,7 +544,8 @@
     "music_id": "be1e9cde02405dcf5f3922f89beb79cd",
     "music_title": "待チ人ハ来ズ。",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -500,6 +555,7 @@
     "music_title": "幻想のサテライト",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 0
   },
@@ -508,7 +564,8 @@
     "music_id": "b021bc4ab68a26976875e57b3c69630e",
     "music_title": "チルノのパーフェクトさんすう教室",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -518,6 +575,7 @@
     "music_title": "スカーレット警察のゲットーパトロール24時",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -526,7 +584,8 @@
     "music_id": "c5590464602b97f7584b51d0bd5eadb6",
     "music_title": "魔理沙は大変なものを盗んでいきました",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -536,6 +595,7 @@
     "music_title": "Only You",
     "diff_name": "inf",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 1
   },
@@ -545,6 +605,7 @@
     "music_title": "モンスターカミング",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -554,6 +615,7 @@
     "music_title": "STAY PROUD",
     "diff_name": "hard",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 1
   },
@@ -563,6 +625,7 @@
     "music_title": "Streamer",
     "diff_name": "hard",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 1
   },
@@ -572,6 +635,7 @@
     "music_title": "おかえりらぶっ！",
     "diff_name": "hard",
     "level": 7,
+    "level_disp": 7,
     "music_const": 7,
     "QAP_count": 0
   },
@@ -580,7 +644,8 @@
     "music_id": "3457fd2e2549a32466e4e8a149c028ee",
     "music_title": "ストロベリー☆プラネット！",
     "diff_name": "hard",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.8,
     "QAP_count": 0
   },
@@ -590,6 +655,7 @@
     "music_title": "青春チョコレート",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 0
   },
@@ -598,7 +664,8 @@
     "music_id": "0403e4a8ec21e6f3401c7ef9cee791d0",
     "music_title": "唱",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 0
   },
@@ -608,6 +675,7 @@
     "music_title": "Now on step",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 1
   },
@@ -617,6 +685,7 @@
     "music_title": "My song",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 1
   },
@@ -626,6 +695,7 @@
     "music_title": "夢見る羊",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -635,6 +705,7 @@
     "music_title": "れすきゅぅうぅぅ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -643,7 +714,8 @@
     "music_id": "b2631189e93dd63955fc02f9d72a36aa",
     "music_title": "ジェヘナ",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -653,6 +725,7 @@
     "music_title": "可惜夜の残り火",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 3
   },
@@ -661,7 +734,8 @@
     "music_id": "a03c8cb46a07198bc4655db803bf0899",
     "music_title": "PUPA",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.8,
     "QAP_count": 0
   },
@@ -671,6 +745,7 @@
     "music_title": "めうめうぺったんたん！！",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 1
   },
@@ -680,6 +755,7 @@
     "music_title": "滅亡天使 † にこきゅっぴん",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 2
   },
@@ -689,6 +765,7 @@
     "music_title": "チョコレートスマイル",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.3,
     "QAP_count": 2
   },
@@ -698,6 +775,7 @@
     "music_title": "カタルシスの月",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 1
   },
@@ -707,6 +785,7 @@
     "music_title": "ポラリスノウタ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.2,
     "QAP_count": 2
   },
@@ -716,6 +795,7 @@
     "music_title": "Lockdown",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 0
   },
@@ -724,7 +804,8 @@
     "music_id": "9cb3a8d74d3fde8301193a4f5d767f1e",
     "music_title": "Let’s Ghost",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 1
   },
@@ -733,7 +814,8 @@
     "music_id": "4decfa07031dbce51fb49886ab15b49b",
     "music_title": "Necromantic",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 1
   },
@@ -743,6 +825,7 @@
     "music_title": "トランスダンスアナーキー",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.1,
     "QAP_count": 1
   },
@@ -752,6 +835,7 @@
     "music_title": "Last danceR",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 2
   },
@@ -761,6 +845,7 @@
     "music_title": "悪戯センセーション",
     "diff_name": "hard",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 2
   },
@@ -769,7 +854,8 @@
     "music_id": "b0e2ff92aecced7377cd23ba599397b3",
     "music_title": "運命線上のアリア",
     "diff_name": "hard",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.8,
     "QAP_count": 0
   },
@@ -779,6 +865,7 @@
     "music_title": "Blossom",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.3,
     "QAP_count": 1
   },
@@ -788,6 +875,7 @@
     "music_title": "cyanotype",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -797,6 +885,7 @@
     "music_title": "アルティメットセンパイ",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 0
   },
@@ -805,7 +894,8 @@
     "music_id": "c429c66a9b633ff6f478d5c6eed57fa0",
     "music_title": "マツヨイナイトバグ",
     "diff_name": "hard",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.7,
     "QAP_count": 0
   },
@@ -815,6 +905,7 @@
     "music_title": "さよならトリップ ～夏陽 EDM edition～",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.2,
     "QAP_count": 4
   },
@@ -823,7 +914,8 @@
     "music_id": "a6dd13886baccce6b75f804915340d89",
     "music_title": "魔法のたまご ～心菜 ELECTRO POP edition～",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.8,
     "QAP_count": 1
   },
@@ -833,6 +925,7 @@
     "music_title": "Triptych Symphony",
     "diff_name": "hard",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 0
   },
@@ -842,6 +935,7 @@
     "music_title": "conflict",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.2,
     "QAP_count": 0
   },
@@ -850,7 +944,8 @@
     "music_id": "6ba5cd230a18881ed2b628b8edd2468d",
     "music_title": "ラビットホール",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -859,7 +954,8 @@
     "music_id": "73e237e9203eeff76466cf13a3e256bb",
     "music_title": "Prince",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -869,6 +965,7 @@
     "music_title": "はりーはりーらぶ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.2,
     "QAP_count": 1
   },
@@ -878,6 +975,7 @@
     "music_title": "ルマ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 0
   },
@@ -887,6 +985,7 @@
     "music_title": "ワンダラー",
     "diff_name": "hard",
     "level": 8,
+    "level_disp": 8,
     "music_const": 8,
     "QAP_count": 1
   },
@@ -896,6 +995,7 @@
     "music_title": "僕らだけのシャングリラ",
     "diff_name": "hard",
     "level": 7,
+    "level_disp": 7,
     "music_const": 7,
     "QAP_count": 0
   },
@@ -904,7 +1004,8 @@
     "music_id": "27f3451d2105b7cefb31149d8879e329",
     "music_title": "地方創生☆チクワクティクス",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -913,7 +1014,8 @@
     "music_id": "8dfc50e0739b5309de7d73700e757a73",
     "music_title": "乙女繚乱 舞い咲き誇れ",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -922,7 +1024,8 @@
     "music_id": "1df2e699e440ee5afbbe4e2130e2941d",
     "music_title": "neko＊neko",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.9,
     "QAP_count": 1
   },
@@ -932,6 +1035,7 @@
     "music_title": "Chronomia",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.1,
     "QAP_count": 2
   },
@@ -940,7 +1044,8 @@
     "music_id": "b2cb51abcba479c4bdd0cb151bdfba92",
     "music_title": "I.R.O",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 0
   },
@@ -949,7 +1054,8 @@
     "music_id": "df41f59dc6a19dfc3573788fdc7c717c",
     "music_title": "RunRunAround",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 1
   },
@@ -958,7 +1064,8 @@
     "music_id": "611b9f5b75502cd0c9c7c6350b6caef9",
     "music_title": "周回軌道",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 0
   },
@@ -967,7 +1074,8 @@
     "music_id": "5f06dcded71be16124cc4decf1d34168",
     "music_title": "コネクトリップ",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -977,6 +1085,7 @@
     "music_title": "Who are you...?",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -986,6 +1095,7 @@
     "music_title": "臨界ダイバー",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -995,6 +1105,7 @@
     "music_title": "パ→ピ→プ→Yeah! (大海嘯オルカ Cover)",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -1003,7 +1114,8 @@
     "music_id": "432a34294d070c3947af5a13ed0232da",
     "music_title": "こぐまがいるんだ (大隈子熊 Cover)",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -1013,6 +1125,7 @@
     "music_title": "エゴロック (宿木鷹臣 Cover)",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 1
   },
@@ -1021,7 +1134,8 @@
     "music_id": "6c0ffd952559f05fc0220204fc6b4510",
     "music_title": "レイドバックジャーニー",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 1
   },
@@ -1031,6 +1145,7 @@
     "music_title": "ビビデバ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 0
   },
@@ -1039,7 +1154,8 @@
     "music_id": "3622ef3409f49efc1dfd45feb22a0b57",
     "music_title": "ソリッド",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 0
   },
@@ -1049,6 +1165,7 @@
     "music_title": "HELLOHELL",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 0
   },
@@ -1058,6 +1175,7 @@
     "music_title": "ナイト・オブ・ナイツ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12,
     "QAP_count": 1
   },
@@ -1067,6 +1185,7 @@
     "music_title": "DUCTFOOD",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.2,
     "QAP_count": 2
   },
@@ -1076,6 +1195,7 @@
     "music_title": "I I I",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.1,
     "QAP_count": 2
   },
@@ -1085,6 +1205,7 @@
     "music_title": "Pixel Galaxy",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 1
   },
@@ -1094,6 +1215,7 @@
     "music_title": "むしみこうにゃーのハッピッピー",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 2
   },
@@ -1103,6 +1225,7 @@
     "music_title": "三妖精SAY YA!!!",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -1112,6 +1235,7 @@
     "music_title": "Grip & Break down !!",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -1121,6 +1245,7 @@
     "music_title": "INFINITE WORLD",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11,
     "QAP_count": 1
   },
@@ -1129,7 +1254,8 @@
     "music_id": "004b380b894e5d6cb71545a295ad6d85",
     "music_title": "異常な音を出すガール",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 1
   },
@@ -1138,7 +1264,8 @@
     "music_id": "4462c2c6c63ddf27574f561ea423124c",
     "music_title": "ダーリン",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 1
   },
@@ -1148,6 +1275,7 @@
     "music_title": "ギザバ怪文書",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.3,
     "QAP_count": 0
   },
@@ -1156,7 +1284,8 @@
     "music_id": "2dc3c899548f4bf30136c855788acf0f",
     "music_title": "ちくわパフェだよ☆ＣＫＰ",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 0
   },
@@ -1165,7 +1294,8 @@
     "music_id": "10b743c637c4052e76cec26e6ef552b0",
     "music_title": "ロンロンへライライライ!",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -1175,6 +1305,7 @@
     "music_title": "楔",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.6,
     "QAP_count": 3
   },
@@ -1183,7 +1314,8 @@
     "music_id": "a96ba68dbb98899e79ee617623587985",
     "music_title": "朧 (綿間瀬わたこ Cover)",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 1
   },
@@ -1193,6 +1325,7 @@
     "music_title": "Q",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 0
   },
@@ -1202,6 +1335,7 @@
     "music_title": "GOLDEN",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.2,
     "QAP_count": 2
   },
@@ -1211,6 +1345,7 @@
     "music_title": "愛包ダンスホール",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.1,
     "QAP_count": 2
   },
@@ -1219,7 +1354,8 @@
     "music_id": "55a54e327fa2015d833049a391228e32",
     "music_title": "嘘ミーム",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.9,
     "QAP_count": 1
   },
@@ -1229,6 +1365,7 @@
     "music_title": "人マニア",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12,
     "QAP_count": 2
   },
@@ -1237,7 +1374,8 @@
     "music_id": "8c6822cca7dc9b17eadce3e13c9a4455",
     "music_title": "Here We Go!!",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.7,
     "QAP_count": 1
   },
@@ -1247,6 +1385,7 @@
     "music_title": "スキスキ星人",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -1256,6 +1395,7 @@
     "music_title": "プロポーズ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.3,
     "QAP_count": 0
   },
@@ -1265,6 +1405,7 @@
     "music_title": "ベリベリラブ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -1274,6 +1415,7 @@
     "music_title": "大好きになればいいんじゃない?",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -1283,6 +1425,7 @@
     "music_title": "きゅんきゅんみこきゅんきゅん♡",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.4,
     "QAP_count": 1
   },
@@ -1291,7 +1434,8 @@
     "music_id": "b92e67ede288bed526382b48ffffe398",
     "music_title": "Dear Deer",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 1
   },
@@ -1300,7 +1444,8 @@
     "music_id": "6525c7bbc322cdd8df14ff312b141154",
     "music_title": "HOLOGRAPHY",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -1310,6 +1455,7 @@
     "music_title": "Ö<3rf10₩",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.1,
     "QAP_count": 0
   },
@@ -1318,7 +1464,8 @@
     "music_id": "a5e79df542fc3f8b2ddb1409024f341d",
     "music_title": "風呂入るプロファイル",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.9,
     "QAP_count": 1
   },
@@ -1327,7 +1474,8 @@
     "music_id": "ad4bf1ac0f4e69faef8e239a9959aaeb",
     "music_title": "六兆年と一夜物語",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 0
   },
@@ -1337,6 +1485,7 @@
     "music_title": "QUATTUORUX",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.6,
     "QAP_count": 0
   },
@@ -1345,7 +1494,8 @@
     "music_id": "2da1692b69c67a89883f977429d23eb2",
     "music_title": "ANEMONE",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -1354,7 +1504,8 @@
     "music_id": "341971bc7302bcf92645e23c6dfe12de",
     "music_title": "FACT",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -1364,6 +1515,7 @@
     "music_title": "ライメイ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -1373,6 +1525,7 @@
     "music_title": "響縁",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 2
   },
@@ -1382,6 +1535,7 @@
     "music_title": "WARNING×WARNING×WARNING",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.3,
     "QAP_count": 2
   },
@@ -1390,7 +1544,8 @@
     "music_id": "780382d2658a5f096931a8640963e0fa",
     "music_title": "超々キューカンバー",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 1
   },
@@ -1400,6 +1555,7 @@
     "music_title": "しゅわスパ大作戦☆",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.6,
     "QAP_count": 1
   },
@@ -1408,7 +1564,8 @@
     "music_id": "d15cbb385fc63e8476e080d8cc42bb22",
     "music_title": "閉塞的フレーション",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 1
   },
@@ -1418,6 +1575,7 @@
     "music_title": "残像ニ繋ガレタ追憶ノHIDEAWAY",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 0
   },
@@ -1427,6 +1585,7 @@
     "music_title": "弾幕信仰",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -1435,7 +1594,8 @@
     "music_id": "3527ed35d8f0733efc20c590e1de5ba2",
     "music_title": "SUPER HEROINE!!",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 0
   },
@@ -1445,6 +1605,7 @@
     "music_title": "LA VIE EN ROSE (Tatsunoshin Remix)",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 1
   },
@@ -1453,7 +1614,8 @@
     "music_id": "fd529ad4f77340bb6bca5fb5d3499dcc",
     "music_title": "Paranoia",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.9,
     "QAP_count": 1
   },
@@ -1463,6 +1625,7 @@
     "music_title": "Yearning",
     "diff_name": "inf",
     "level": 9,
+    "level_disp": 9,
     "music_const": 9,
     "QAP_count": 1
   },
@@ -1472,6 +1635,7 @@
     "music_title": "メズマライザー",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -1480,7 +1644,8 @@
     "music_id": "c770b754a5924faa66eb4ca161f4c9be",
     "music_title": "スターチューン (和乙葉ぺぺた Cover)",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 1
   },
@@ -1490,6 +1655,7 @@
     "music_title": "Temporal Veil",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.2,
     "QAP_count": 0
   },
@@ -1499,6 +1665,7 @@
     "music_title": "MilK",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 2
   },
@@ -1508,6 +1675,7 @@
     "music_title": "オーバーライド",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 3
   },
@@ -1516,7 +1684,8 @@
     "music_id": "47acf24abc1f72705d16906098933091",
     "music_title": "ランカーキラーガール",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -1525,7 +1694,8 @@
     "music_id": "7121ac42248b44acad7c7072a687f79a",
     "music_title": "Sparkle Smilin'",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -1535,6 +1705,7 @@
     "music_title": "狂水一華",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 1
   },
@@ -1544,6 +1715,7 @@
     "music_title": "ハッピーシンセサイザ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.1,
     "QAP_count": 1
   },
@@ -1553,6 +1725,7 @@
     "music_title": "いーあるふぁんくらぶ",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.3,
     "QAP_count": 1
   },
@@ -1562,6 +1735,7 @@
     "music_title": "天ノ弱",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -1570,7 +1744,8 @@
     "music_id": "f78dbbd20f4f16677243bc90e7fd2e25",
     "music_title": "初音ミクの消失",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -1579,7 +1754,8 @@
     "music_id": "984d42c903f74daad49560e40e8dbe2a",
     "music_title": "セツナトリップ",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -1588,7 +1764,8 @@
     "music_id": "ea3426c59d0d18578c723f9d2f402cc5",
     "music_title": "神威",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.8,
     "QAP_count": 0
   },
@@ -1598,6 +1775,7 @@
     "music_title": "FRENZY HEART",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.3,
     "QAP_count": 0
   },
@@ -1607,6 +1785,7 @@
     "music_title": "星界のアルペジオ",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13,
     "QAP_count": 0
   },
@@ -1616,6 +1795,7 @@
     "music_title": "幻想龍殺蟲毒少女・姫虫百々世",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 1
   },
@@ -1624,7 +1804,8 @@
     "music_id": "59476b514e57b66c12ff37ecd3c20f5e",
     "music_title": "㋰責任集合体",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 0
   },
@@ -1634,6 +1815,7 @@
     "music_title": "ミッドナイト☆WAR",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 2
   },
@@ -1643,6 +1825,7 @@
     "music_title": "ラブキラ☆スプラッシュ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 1
   },
@@ -1652,6 +1835,7 @@
     "music_title": "さよならプリンセス",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 1
   },
@@ -1661,6 +1845,7 @@
     "music_title": "凛として咲く花の如く (大神ミオ Cover)",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.2,
     "QAP_count": 1
   },
@@ -1669,7 +1854,8 @@
     "music_id": "26db8bc7fd7f7232426a71cd64416bca",
     "music_title": "３倍！Sun Shine！カーニバル！",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -1679,6 +1865,7 @@
     "music_title": "みつぼしパレード",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.6,
     "QAP_count": 4
   },
@@ -1688,6 +1875,7 @@
     "music_title": "地獄屋八丁荒らし",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11,
     "QAP_count": 3
   },
@@ -1697,6 +1885,7 @@
     "music_title": "藍嵐",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.2,
     "QAP_count": 1
   },
@@ -1706,6 +1895,7 @@
     "music_title": "FRAMES",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.1,
     "QAP_count": 4
   },
@@ -1715,6 +1905,7 @@
     "music_title": "Hastur",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -1724,6 +1915,7 @@
     "music_title": "Gale Rider",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 1
   },
@@ -1733,6 +1925,7 @@
     "music_title": "カラフルミニッツ",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.6,
     "QAP_count": 5
   },
@@ -1742,6 +1935,7 @@
     "music_title": "打打打打打打打打打打",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -1751,6 +1945,7 @@
     "music_title": "ハッピーエンドをはじめから",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.3,
     "QAP_count": 1
   },
@@ -1760,6 +1955,7 @@
     "music_title": "MeteorA",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 1
   },
@@ -1769,6 +1965,7 @@
     "music_title": "If",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -1778,6 +1975,7 @@
     "music_title": "Laughin' Muffin",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 1
   },
@@ -1787,6 +1985,7 @@
     "music_title": "Mr.REAPER",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -1795,7 +1994,8 @@
     "music_id": "f31eeaaa148f17d412d12b5086a5da32",
     "music_title": "Alche Miss Katrina",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 0
   },
@@ -1805,6 +2005,7 @@
     "music_title": "N3XTAGE",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -1813,7 +2014,8 @@
     "music_id": "7a91252151cc50efdca5831637d2d5f1",
     "music_title": "エンドレス・てゐマパーク",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -1822,7 +2024,8 @@
     "music_id": "beec36f43afa302c004f303829297cc9",
     "music_title": "超最終鬼畜妹フランドール・S",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -1832,6 +2035,7 @@
     "music_title": "有頂天ドリーマーズ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 1
   },
@@ -1840,7 +2044,8 @@
     "music_id": "5d4411d4744aaad6cd857f325ca0d83d",
     "music_title": "Heartquake Super Shock",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -1849,7 +2054,8 @@
     "music_id": "c6ba6f18921d9efb029bd1f4b301ce93",
     "music_title": "エキサイティング！！も・ちゃ・ちゃ☆",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -1858,7 +2064,8 @@
     "music_id": "6d8c20eb184f3f53194b665c48c50770",
     "music_title": "けもののおうじゃ★めうめう",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -1868,6 +2075,7 @@
     "music_title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.2,
     "QAP_count": 0
   },
@@ -1877,6 +2085,7 @@
     "music_title": "Last Twilight",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.2,
     "QAP_count": 0
   },
@@ -1885,7 +2094,8 @@
     "music_id": "6c5096a1490d50daa1588d4f08eb25ac",
     "music_title": "バルベリア・タンゴ",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -1894,7 +2104,8 @@
     "music_id": "bf6d90936f263805a66b9d9d6285b225",
     "music_title": "n番目の女",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 1
   },
@@ -1903,7 +2114,8 @@
     "music_id": "6c2fea84ab8b49ca4a13f5b50373dfc3",
     "music_title": "ネリと琥珀糖",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -1913,6 +2125,7 @@
     "music_title": "ヒバナ (緋月ゆい Cover)",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 1
   },
@@ -1922,6 +2135,7 @@
     "music_title": "Stellar Stellar",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -1931,6 +2145,7 @@
     "music_title": "美少女無罪♡パイレーツ",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 1
   },
@@ -1940,6 +2155,7 @@
     "music_title": "WAO!!",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 1
   },
@@ -1948,7 +2164,8 @@
     "music_id": "c6023cc227d6c2e33946ee5d28379d91",
     "music_title": "水鏡 (日下育彦 Cover)",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -1957,7 +2174,8 @@
     "music_id": "01e25b22e98f26dd7471b02c29bae2ce",
     "music_title": "恋はどう？モロ◎波動OK☆方程式！！ (福來羽羅 Cover)",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 1
   },
@@ -1967,6 +2185,7 @@
     "music_title": "Wow Wow VENUS (乾セナ Cover)",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -1975,7 +2194,8 @@
     "music_id": "7e47b486b443d3a3e2543deb8676e7d7",
     "music_title": "Eidos",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 2
   },
@@ -1984,7 +2204,8 @@
     "music_id": "5ba42ce2fc895054e5ae2306ff3d83cb",
     "music_title": "Re：End of a Dream",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -1993,7 +2214,8 @@
     "music_id": "0ee570a807222ead90c418a41b6be11d",
     "music_title": "Altale",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -2003,6 +2225,7 @@
     "music_title": "ライアーダンサー",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 3
   },
@@ -2011,7 +2234,8 @@
     "music_id": "1f7a0fd828a0e31c30299acacc519749",
     "music_title": "555 (Please call me “Go! Go! Go!”)",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.7,
     "QAP_count": 0
   },
@@ -2020,7 +2244,8 @@
     "music_id": "9f622d90fc1256f17c935df65a0eb2d3",
     "music_title": "DISTORDER",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.8,
     "QAP_count": 0
   },
@@ -2030,6 +2255,7 @@
     "music_title": "Baphomet",
     "diff_name": "inf",
     "level": 14,
+    "level_disp": 14,
     "music_const": 14.4,
     "QAP_count": 0
   },
@@ -2039,6 +2265,7 @@
     "music_title": "Extra No.3",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -2047,7 +2274,8 @@
     "music_id": "008e12b6549db2e25b1ad15328b16e6b",
     "music_title": "イガク",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 1
   },
@@ -2056,7 +2284,8 @@
     "music_id": "e75ef25a8771b306d58b3a060f910a13",
     "music_title": "FLVSH OUT",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -2065,7 +2294,8 @@
     "music_id": "ed26b03d9327abae03430cfeb41ce1f5",
     "music_title": "Old Heaven",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2074,7 +2304,8 @@
     "music_id": "17c54ec1ad0166019337b8438aa6f452",
     "music_title": "Bad Apple!! feat. nomico",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 1
   },
@@ -2083,7 +2314,8 @@
     "music_id": "63fd3f52118d6f90cefd6506e449b412",
     "music_title": "Excelsia",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2093,6 +2325,7 @@
     "music_title": "What's up? Pop!",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.4,
     "QAP_count": 0
   },
@@ -2102,6 +2335,7 @@
     "music_title": "Brand New Day",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 1
   },
@@ -2110,7 +2344,8 @@
     "music_id": "22c4fac1e4a8c83e517c9f2d78303528",
     "music_title": "ONESELF",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2119,7 +2354,8 @@
     "music_id": "056012a74b20d1230da1f2ac8bb905cb",
     "music_title": "Help me, ERINNNNNN!!",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 1
   },
@@ -2128,7 +2364,8 @@
     "music_id": "b57924b192e785abb2a66a92746f5b55",
     "music_title": "ちくわパフェだよ☆ＣＫＰ (Yvya Remix)",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2137,7 +2374,8 @@
     "music_id": "cc424855ef4bab0f0d18e77b64503529",
     "music_title": "ミラクル・スイート・スイーツ・マジック！！",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2146,7 +2384,8 @@
     "music_id": "5035613a616c0327ca4a58a22ed1b4e5",
     "music_title": "恋とキングコング",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 1
   },
@@ -2155,7 +2394,8 @@
     "music_id": "532f4123ed447705a987137396305615",
     "music_title": "ぽかぽかレトロード",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -2165,6 +2405,7 @@
     "music_title": "CROWD NINE",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.3,
     "QAP_count": 1
   },
@@ -2174,6 +2415,7 @@
     "music_title": "未来証明",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 1
   },
@@ -2182,7 +2424,8 @@
     "music_id": "2f6faf476a9dc43b6d06aebd6c0120a5",
     "music_title": "B.B.K.K.B.K.K.",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2191,7 +2434,8 @@
     "music_id": "a35aea1f35102bf5122517d61e0d9be8",
     "music_title": "ULTRA SYNERGY MATRIX",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -2201,6 +2445,7 @@
     "music_title": "HYPER LOVE",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.2,
     "QAP_count": 1
   },
@@ -2210,6 +2455,7 @@
     "music_title": "Two♡Hearts",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 2
   },
@@ -2219,6 +2465,7 @@
     "music_title": "おにけもだんす",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.3,
     "QAP_count": 0
   },
@@ -2228,6 +2475,7 @@
     "music_title": "なかま歌",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -2237,6 +2485,7 @@
     "music_title": "イケ贄",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11,
     "QAP_count": 5
   },
@@ -2245,7 +2494,8 @@
     "music_id": "56b5682f8c58d175e290d0da4620a08f",
     "music_title": "寝起きヤシの木",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 1
   },
@@ -2255,6 +2505,7 @@
     "music_title": "恋繋エピローグ",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.4,
     "QAP_count": 1
   },
@@ -2264,6 +2515,7 @@
     "music_title": "Dystopia",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -2273,6 +2525,7 @@
     "music_title": "crescent moon",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.2,
     "QAP_count": 1
   },
@@ -2281,7 +2534,8 @@
     "music_id": "376c43ae157352e73d572ca4b94b04c4",
     "music_title": "Bad ∞ End ∞ Night",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 1
   },
@@ -2291,6 +2545,7 @@
     "music_title": "クノイチでも恋がしたい",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 1
   },
@@ -2300,6 +2555,7 @@
     "music_title": "DULLY",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 2
   },
@@ -2309,6 +2565,7 @@
     "music_title": "羊のような雲はどこまで",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.5,
     "QAP_count": 5
   },
@@ -2318,6 +2575,7 @@
     "music_title": "EBONY & IVORY",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.6,
     "QAP_count": 0
   },
@@ -2326,7 +2584,8 @@
     "music_id": "6f09c7ed1f41b7c47e7a8adc667465cb",
     "music_title": "爆なな☆てすとロイヤー",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -2335,7 +2594,8 @@
     "music_id": "f52d39694dbd00abba5b43b178d38339",
     "music_title": "惑星☆ロリポップ",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -2344,7 +2604,8 @@
     "music_id": "9eddc7f77bc578f5f99aeb2c5f0c4296",
     "music_title": "それは花火のような恋",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 4
   },
@@ -2354,6 +2615,7 @@
     "music_title": "のだ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -2363,6 +2625,7 @@
     "music_title": "ヒミツダイヤル",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11,
     "QAP_count": 2
   },
@@ -2372,6 +2635,7 @@
     "music_title": "ヒカリユリイカ",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.1,
     "QAP_count": 1
   },
@@ -2381,6 +2645,7 @@
     "music_title": "ムラサキグルマ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -2389,7 +2654,8 @@
     "music_id": "61cc8d6c55588e9f2b7ec0cc9ccb3a0b",
     "music_title": "Finally Dive",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -2399,6 +2665,7 @@
     "music_title": "ロマンシングエスケープ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 0
   },
@@ -2408,6 +2675,7 @@
     "music_title": "滅びに至るエランプシス",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 1
   },
@@ -2417,6 +2685,7 @@
     "music_title": "3 A.M. ディテクティブ・ゲーム",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -2425,7 +2694,8 @@
     "music_id": "4dfa47819720989234333bb806360941",
     "music_title": "黒髪乱れし修羅となりて ～凛 edition～",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2435,6 +2705,7 @@
     "music_title": "雪の雫・雨の音",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12,
     "QAP_count": 1
   },
@@ -2444,6 +2715,7 @@
     "music_title": "Moon shadow",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -2453,6 +2725,7 @@
     "music_title": "Synchronize",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -2462,6 +2735,7 @@
     "music_title": "LOTUS",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -2471,6 +2745,7 @@
     "music_title": "Welcome!!",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -2480,6 +2755,7 @@
     "music_title": "かくれんぼ (胡桃のあ Cover)",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 4
   },
@@ -2488,7 +2764,8 @@
     "music_id": "91f0b33d03b3db17d8a962314bc63941",
     "music_title": "感情ディシーブ (福來羽留 Cover)",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -2498,6 +2775,7 @@
     "music_title": "Like the Starlight",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.5,
     "QAP_count": 0
   },
@@ -2507,6 +2785,7 @@
     "music_title": "Maple",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 0
   },
@@ -2516,6 +2795,7 @@
     "music_title": "BLOOM",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -2524,7 +2804,8 @@
     "music_id": "19c63202fdef7d8c1837e85101857022",
     "music_title": "Big Daddy",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -2534,6 +2815,7 @@
     "music_title": "丫",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -2543,6 +2825,7 @@
     "music_title": "Elemental Creation",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.6,
     "QAP_count": 0
   },
@@ -2551,7 +2834,8 @@
     "music_id": "3dbfa20f2fa3ff4ec285de4dd84ce9b0",
     "music_title": "ラキラキ",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -2560,7 +2844,8 @@
     "music_id": "b673486aea06738b1ee8bb89be6e164d",
     "music_title": "晴天Bon Voyage",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -2569,7 +2854,8 @@
     "music_id": "48cf5fac9f5ee82c0fd1d940e22a3ba6",
     "music_title": "STULTI",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.8,
     "QAP_count": 0
   },
@@ -2579,6 +2865,7 @@
     "music_title": "虹色の花",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -2587,7 +2874,8 @@
     "music_id": "e709d87d690889b8e4094874b19f57b5",
     "music_title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 1
   },
@@ -2597,6 +2885,7 @@
     "music_title": "創世ノート",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -2605,7 +2894,8 @@
     "music_id": "1a75156a4193870fb3d4a66891bd378a",
     "music_title": "Synergy For Angels",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2615,6 +2905,7 @@
     "music_title": "Empathetic",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 1
   },
@@ -2624,6 +2915,7 @@
     "music_title": "GAIA",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.5,
     "QAP_count": 0
   },
@@ -2632,7 +2924,8 @@
     "music_id": "4aa4c322698d42617fbf42c0beb13f78",
     "music_title": "L",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.8,
     "QAP_count": 0
   },
@@ -2642,6 +2935,7 @@
     "music_title": "Cool Me Down",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 1
   },
@@ -2650,7 +2944,8 @@
     "music_id": "6d57959f713839821fc884e9ec7aa2a0",
     "music_title": "VALLIS-NERIA",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 1
   },
@@ -2660,6 +2955,7 @@
     "music_title": "テトリス",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 1
   },
@@ -2669,6 +2965,7 @@
     "music_title": "PON☆PON☆PARADE",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 2
   },
@@ -2678,6 +2975,7 @@
     "music_title": "ネハン",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -2687,6 +2985,7 @@
     "music_title": "プラネットヒーロー",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.4,
     "QAP_count": 0
   },
@@ -2695,7 +2994,8 @@
     "music_id": "755207d32d1d3d58047247cfb2266621",
     "music_title": "Resonant Gear",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 1
   },
@@ -2704,7 +3004,8 @@
     "music_id": "3ff1e4456e37825e4f98703a6f704ad4",
     "music_title": "Prayer",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -2713,7 +3014,8 @@
     "music_id": "cb5a4d5c12b810c080f1b4a35f1914e0",
     "music_title": "Dyscontrolled Galaxy",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.9,
     "QAP_count": 0
   },
@@ -2722,7 +3024,8 @@
     "music_id": "7425b0e423b1b210f7b9ff5fdac782f1",
     "music_title": "カルマ",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 0
   },
@@ -2732,6 +3035,7 @@
     "music_title": "ケロ⑨destiny",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -2740,7 +3044,8 @@
     "music_id": "4f2824fa95715ad6eb1388245c7b913b",
     "music_title": "ウラボス",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -2750,6 +3055,7 @@
     "music_title": "El-Dorago",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.4,
     "QAP_count": 0
   },
@@ -2758,7 +3064,8 @@
     "music_id": "e317718e1ce163d36f08a1806c344ea2",
     "music_title": "量子の海のリントヴルム",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2767,7 +3074,8 @@
     "music_id": "36d63afbbbfbaa8cfec45e2cfeef6abb",
     "music_title": "concon",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 6
   },
@@ -2776,7 +3084,8 @@
     "music_id": "b41bb89ae6ea7957d023f65fc2a23273",
     "music_title": "I'm so Happy",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 7
   },
@@ -2786,6 +3095,7 @@
     "music_title": "Evans",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.5,
     "QAP_count": 0
   },
@@ -2795,6 +3105,7 @@
     "music_title": "ギャ・ギャ・ギャ・ギャラクシー！",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 1
   },
@@ -2804,6 +3115,7 @@
     "music_title": "覚悟せよ！エンタンメ～ン ～より身の切り売り自暴自棄版～",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   },
@@ -2813,6 +3125,7 @@
     "music_title": "フラッフィー・アドベンチャー！",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 1
   },
@@ -2822,6 +3135,7 @@
     "music_title": "悲報！ワイ！ニート！",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 1
   },
@@ -2830,7 +3144,8 @@
     "music_id": "e8a94df13c3418c2393eb614b667e0d6",
     "music_title": "あおばの足音",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 0
   },
@@ -2839,7 +3154,8 @@
     "music_id": "7a416f39dcb5ba8c3fb42b8dca14ce69",
     "music_title": "惑星ループ (花芽すみれ Cover)",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 2
   },
@@ -2848,7 +3164,8 @@
     "music_id": "cf14fd5940ec8a5fe95342e1d4618b65",
     "music_title": "エクスプロウル",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 1
   },
@@ -2858,6 +3175,7 @@
     "music_title": "アイスクリームマジック",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 5
   },
@@ -2866,7 +3184,8 @@
     "music_id": "6b5bc6cb4566d8f48e373a626a78bd1e",
     "music_title": "Ha･lle･lu･jah",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.7,
     "QAP_count": 1
   },
@@ -2875,7 +3194,8 @@
     "music_id": "d490dae40612ea9a15f8270c1da0bfe3",
     "music_title": "Innocent",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2884,7 +3204,8 @@
     "music_id": "02cefd5c13937c6b4996bd6e480cd400",
     "music_title": "Ghost Family Living In Graveyard",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.8,
     "QAP_count": 0
   },
@@ -2893,7 +3214,8 @@
     "music_id": "622e1fd473e43377fa125a450fb5d928",
     "music_title": "隅田川夏恋歌 (珠村日乃和 Cover)",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -2902,7 +3224,8 @@
     "music_id": "50731976e58dd5315dba122d80d46a68",
     "music_title": "Trendy Cloudy LolIPopS",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 1
   },
@@ -2912,6 +3235,7 @@
     "music_title": "Moonlit Blue",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 3
   },
@@ -2921,6 +3245,7 @@
     "music_title": "Happy come×2 Tea Time",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.4,
     "QAP_count": 3
   },
@@ -2929,7 +3254,8 @@
     "music_id": "79ff4a156359e4525afdcbd7959706ce",
     "music_title": "Poppin☆Mystic",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 1
   },
@@ -2938,7 +3264,8 @@
     "music_id": "210c291750c717c4c09a375a66794973",
     "music_title": "心泥夢(syndrome)",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -2948,6 +3275,7 @@
     "music_title": "How about rainbow flavors?( *´꒳`*)っ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -2956,7 +3284,8 @@
     "music_id": "41ab28d1f12848c8bcf1574a3c75e205",
     "music_title": "Stella Sinistra",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -2965,7 +3294,8 @@
     "music_id": "97953c465a9208338aa5e69b7695895e",
     "music_title": "マインド・ゲーム",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 0
   },
@@ -2974,7 +3304,8 @@
     "music_id": "261e2d6164eb8b2e0f74ad15162fd32c",
     "music_title": "PUNISHER",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -2983,7 +3314,8 @@
     "music_id": "3f215352b939c692ca537c1d76665a66",
     "music_title": "HYENA",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.7,
     "QAP_count": 0
   },
@@ -2992,7 +3324,8 @@
     "music_id": "29b39fa735af5f705e4d5cf3e19b7d2b",
     "music_title": "右肩の蝶 (空澄セナ Cover)",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 4
   },
@@ -3002,6 +3335,7 @@
     "music_title": "きらきら☆彡ぷりんせす",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 2
   },
@@ -3011,6 +3345,7 @@
     "music_title": "Citrus Burst",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -3020,6 +3355,7 @@
     "music_title": "激アツ☆マジヤバ☆チアガール",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 3
   },
@@ -3029,6 +3365,7 @@
     "music_title": "双星ルミネセンス",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -3038,6 +3375,7 @@
     "music_title": "走れメロンパン",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.5,
     "QAP_count": 2
   },
@@ -3047,6 +3385,7 @@
     "music_title": "Carry Me Away",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 1
   },
@@ -3055,7 +3394,8 @@
     "music_id": "903faedfab1d2ba64fac5ef503a747eb",
     "music_title": "ミュージックプレイヤー",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -3065,6 +3405,7 @@
     "music_title": "Daisycutter",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.5,
     "QAP_count": 0
   },
@@ -3073,7 +3414,8 @@
     "music_id": "4cc6802b879d7d3725bd8c9ee0f88a55",
     "music_title": "murmur twins (guitar pop ver.)",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 3
   },
@@ -3082,7 +3424,8 @@
     "music_id": "e73f88a785150eb4c10dee4ea10b73f4",
     "music_title": "カジノファイヤーことみちゃん",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -3092,6 +3435,7 @@
     "music_title": "朱と碧のランページ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 3
   },
@@ -3100,7 +3444,8 @@
     "music_id": "00e0b2ce4b86afa695b928a16f3f7cf5",
     "music_title": "リメンバーリメンバー",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.8,
     "QAP_count": 2
   },
@@ -3110,6 +3455,7 @@
     "music_title": "Shooting Star",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 4
   },
@@ -3119,6 +3465,7 @@
     "music_title": "Heroic DIVE!!",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -3127,7 +3474,8 @@
     "music_id": "3a2127488f24d88a9fdf300acf4cc2aa",
     "music_title": "デッドライン症候群",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 1
   },
@@ -3136,7 +3484,8 @@
     "music_id": "8b5d41f5f3c44025ef0f7790cd4aec19",
     "music_title": "Squeeze",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -3145,7 +3494,8 @@
     "music_id": "74ea0692fd3e1035d57179baef84bd04",
     "music_title": "デッドボヲルdeホームラン",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -3155,6 +3505,7 @@
     "music_title": "轟け！恋のビーンボール！！",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13,
     "QAP_count": 1
   },
@@ -3163,7 +3514,8 @@
     "music_id": "4966b7c9dca7539ed996ac3e32af4034",
     "music_title": "絶え間なく藍色",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 0
   },
@@ -3173,6 +3525,7 @@
     "music_title": "温故知新でいこっ！",
     "diff_name": "inf",
     "level": 10,
+    "level_disp": 10,
     "music_const": 10.5,
     "QAP_count": 1
   },
@@ -3182,6 +3535,7 @@
     "music_title": "ホーンテッド★メイドランチ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.6,
     "QAP_count": 0
   },
@@ -3190,7 +3544,8 @@
     "music_id": "410e01f01bec2e7a619960a1cbbca6c8",
     "music_title": "漆黒のスペシャルプリンセスサンデー",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.8,
     "QAP_count": 0
   },
@@ -3199,7 +3554,8 @@
     "music_id": "670fea07981fc3458f574ed470d4a047",
     "music_title": "Into The Madness",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -3209,6 +3565,7 @@
     "music_title": "Test Flight",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.3,
     "QAP_count": 0
   },
@@ -3218,6 +3575,7 @@
     "music_title": "極圏",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.6,
     "QAP_count": 0
   },
@@ -3226,7 +3584,8 @@
     "music_id": "b28055aa19e02e24c0f4f1495cdd1d88",
     "music_title": "Saiph",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.8,
     "QAP_count": 0
   },
@@ -3236,6 +3595,7 @@
     "music_title": "Crescent:Letter",
     "diff_name": "inf",
     "level": 14,
+    "level_disp": 14,
     "music_const": 14,
     "QAP_count": 0
   },
@@ -3245,6 +3605,7 @@
     "music_title": "ほしふり",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.5,
     "QAP_count": 1
   },
@@ -3254,6 +3615,7 @@
     "music_title": "neu",
     "diff_name": "inf",
     "level": 14,
+    "level_disp": 14,
     "music_const": 14,
     "QAP_count": 0
   },
@@ -3263,6 +3625,7 @@
     "music_title": "コドモライブ",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -3272,6 +3635,7 @@
     "music_title": "ポチコの幸せな日常",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.3,
     "QAP_count": 1
   },
@@ -3281,6 +3645,7 @@
     "music_title": "Daisuke",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.2,
     "QAP_count": 1
   },
@@ -3289,7 +3654,8 @@
     "music_id": "803f46a20d2dab94b676fa983e6cb3d9",
     "music_title": "ルミナスデイズ",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.8,
     "QAP_count": 1
   },
@@ -3298,7 +3664,8 @@
     "music_id": "4066fbbd26c1fdda9aa2ac1e3eefbe42",
     "music_title": "野球の遊び方　そしてその歴史　～決定版～",
     "diff_name": "inf",
-    "level": "10+",
+    "level": 10,
+    "level_disp": "10+",
     "music_const": 10.8,
     "QAP_count": 1
   },
@@ -3307,7 +3674,8 @@
     "music_id": "d32e78891d78c069e919c4ace5935eca",
     "music_title": "IX",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.9,
     "QAP_count": 0
   },
@@ -3316,7 +3684,8 @@
     "music_id": "ba23af16c77f5bc742908beef4f9b5db",
     "music_title": "Engraved Mark",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -3325,7 +3694,8 @@
     "music_id": "b362e840bc1a0608ee6b497cefd4b08b",
     "music_title": "シグナライズ",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -3334,7 +3704,8 @@
     "music_id": "66d7d4cfec46f98c84bfc32c416c6198",
     "music_title": "Eclipsed Wings",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.9,
     "QAP_count": 0
   },
@@ -3344,6 +3715,7 @@
     "music_title": "The Burning of the Brain",
     "diff_name": "polar",
     "level": 14,
+    "level_disp": 14,
     "music_const": 14,
     "QAP_count": 0
   },
@@ -3353,6 +3725,7 @@
     "music_title": "The Burning of the Brain",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.3,
     "QAP_count": 0
   },
@@ -3361,7 +3734,8 @@
     "music_id": "51d23e719f5034f55f3e8f053cf8db26",
     "music_title": "ミスクレイジースピード",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.7,
     "QAP_count": 0
   },
@@ -3371,6 +3745,7 @@
     "music_title": "えんじぇる☆てすと！",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 1
   },
@@ -3379,7 +3754,8 @@
     "music_id": "9be4e8f44047873589be14bcda8e45df",
     "music_title": "Pick up, Me!",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.7,
     "QAP_count": 0
   },
@@ -3389,6 +3765,7 @@
     "music_title": "Λkasha",
     "diff_name": "inf",
     "level": 14,
+    "level_disp": 14,
     "music_const": 14.3,
     "QAP_count": 0
   },
@@ -3397,7 +3774,8 @@
     "music_id": "15253f66586a620f780968beee5577d9",
     "music_title": "while (screen is blue)",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.9,
     "QAP_count": 0
   },
@@ -3407,6 +3785,7 @@
     "music_title": "いつかの夢、またねの約束。",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.1,
     "QAP_count": 1
   },
@@ -3416,6 +3795,7 @@
     "music_title": "Signs and Wonders",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11,
     "QAP_count": 1
   },
@@ -3425,6 +3805,7 @@
     "music_title": "ダーリンダンス",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 1
   },
@@ -3433,7 +3814,8 @@
     "music_id": "6306f44cfa8b06280172f3578c3067ba",
     "music_title": "ボッカデラベリタ",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.9,
     "QAP_count": 1
   },
@@ -3443,6 +3825,7 @@
     "music_title": "未完成讃歌",
     "diff_name": "inf",
     "level": 11,
+    "level_disp": 11,
     "music_const": 11.6,
     "QAP_count": 1
   },
@@ -3452,6 +3835,7 @@
     "music_title": "Dream Re:CHORD",
     "diff_name": "inf",
     "level": 13,
+    "level_disp": 13,
     "music_const": 13.4,
     "QAP_count": 0
   },
@@ -3460,7 +3844,8 @@
     "music_id": "c1d71f19e84e937cbe5f54f3e7f2d446",
     "music_title": "RUINA",
     "diff_name": "inf",
-    "level": "13+",
+    "level": 13,
+    "level_disp": "13+",
     "music_const": 13.8,
     "QAP_count": 0
   },
@@ -3469,7 +3854,8 @@
     "music_id": "bc6465f69f1c5dc496dd1c73d59543d9",
     "music_title": "No Rule Adventure",
     "diff_name": "inf",
-    "level": "12+",
+    "level": 12,
+    "level_disp": "12+",
     "music_const": 12.7,
     "QAP_count": 0
   },
@@ -3478,7 +3864,8 @@
     "music_id": "94888c13a4e3db727d0c7abc07f03a77",
     "music_title": "Remember ～ 彼方から ～",
     "diff_name": "inf",
-    "level": "11+",
+    "level": 11,
+    "level_disp": "11+",
     "music_const": 11.8,
     "QAP_count": 0
   },
@@ -3488,6 +3875,7 @@
     "music_title": "Little Rock Overture",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.4,
     "QAP_count": 0
   },
@@ -3497,6 +3885,7 @@
     "music_title": "unipolar♡heart",
     "diff_name": "inf",
     "level": 12,
+    "level_disp": 12,
     "music_const": 12.5,
     "QAP_count": 0
   }
