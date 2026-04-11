@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1775894786356,
-    "isoString": "2026-04-11T08:06:26.356Z",
-    "formatted": "2026-04-11 17:06:26"
+    "timestamp": 1775894807007,
+    "isoString": "2026-04-11T08:06:47.007Z",
+    "formatted": "2026-04-11 17:06:47"
   },
   "qap_data": [
     {
@@ -8886,32 +8886,6 @@
         },
         {
           "name": "s",
-          "crewid": "-"
-        },
-        {
-          "name": "d",
-          "crewid": "-"
-        },
-        {
-          "name": "f",
-          "crewid": "-"
-        }
-      ]
-    },
-    {
-      "data_count": 343,
-      "music_id": "9a50b257302539e1d702ae45d8a566c4",
-      "music_title": "#病みカワ",
-      "diff": "inf",
-      "date_value": 1775833200000,
-      "display_date": "2026/04/11",
-      "members": [
-        {
-          "name": "あああああ",
-          "crewid": "-"
-        },
-        {
-          "name": "びびびびびびび",
           "crewid": "-"
         },
         {
