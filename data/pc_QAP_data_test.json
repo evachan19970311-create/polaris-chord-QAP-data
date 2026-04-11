@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1775886031704,
-    "isoString": "2026-04-11T05:40:31.704Z",
-    "formatted": "2026-04-11 14:40:31"
+    "timestamp": 1775886089634,
+    "isoString": "2026-04-11T05:41:29.634Z",
+    "formatted": "2026-04-11 14:41:29"
   },
   "qap_data": [
     {
@@ -8819,6 +8819,32 @@
         }
       ],
       "data_count": 339
+    },
+    {
+      "music_id": "aa60e63d59e237dc4bcdbe73006660ca",
+      "music_title": "#あくあ色ぱれっと",
+      "diff": "inf",
+      "date_value": 1775833200000,
+      "display_date": "2026/04/11",
+      "members": [
+        {
+          "name": "a",
+          "crewid": "-"
+        },
+        {
+          "name": "s",
+          "crewid": "-"
+        },
+        {
+          "name": "d",
+          "crewid": "-"
+        },
+        {
+          "name": "f",
+          "crewid": "-"
+        }
+      ],
+      "data_count": 340
     }
   ]
 }
