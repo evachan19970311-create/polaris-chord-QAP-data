@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1776597155754,
-    "isoString": "2026-04-19T11:12:35.754Z",
-    "formatted": "2026-04-19 20:12:35"
+    "timestamp": 1777117923620,
+    "isoString": "2026-04-25T11:52:03.620Z",
+    "formatted": "2026-04-25 20:52:03"
   },
   "qap_data": [
     {
@@ -8843,6 +8843,32 @@
         {
           "name": "ＡＫＩＮＡ－０２",
           "crewid": "-"
+        }
+      ]
+    },
+    {
+      "data_count": 341,
+      "music_id": "d88634a366ca58c96c13a47ab5934fb7",
+      "music_title": "KING",
+      "diff": "inf",
+      "date_value": 1777042800000,
+      "display_date": "2026/04/25",
+      "members": [
+        {
+          "name": "おにぎらず",
+          "crewid": "-"
+        },
+        {
+          "name": "ひなの",
+          "crewid": "56675311"
+        },
+        {
+          "name": "Ｔｓｕｋａｎａ",
+          "crewid": "32071900"
+        },
+        {
+          "name": "ふっかつのげいにんうさぎ",
+          "crewid": "57544109"
         }
       ]
     }
