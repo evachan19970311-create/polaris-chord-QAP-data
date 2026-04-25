@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1777117923623,
-    "isoString": "2026-04-25T11:52:03.623Z",
-    "formatted": "2026-04-25 20:52:03"
+    "timestamp": 1777118231795,
+    "isoString": "2026-04-25T11:57:11.795Z",
+    "formatted": "2026-04-25 20:57:11"
   },
   "summary_data": [
     {
@@ -1314,7 +1314,7 @@
       "level": 10,
       "level_disp": "10",
       "music_const": 10.6,
-      "QAP_count": 3
+      "QAP_count": 4
     },
     {
       "data_index": 131,
