@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1777807575934,
-    "isoString": "2026-05-03T11:26:15.934Z",
-    "formatted": "2026-05-03 20:26:15"
+    "timestamp": 1777807632393,
+    "isoString": "2026-05-03T11:27:12.393Z",
+    "formatted": "2026-05-03 20:27:12"
   },
   "qap_data": [
     {
@@ -8954,6 +8954,32 @@
       "data_count": 345,
       "music_id": "3138caf4a50ea7ba6dc20e9ccc611945",
       "music_title": "バタフライエフェクト",
+      "diff": "inf",
+      "date_value": 1777734000000,
+      "display_date": "2026/05/03",
+      "members": [
+        {
+          "name": "くぜあいりす",
+          "crewid": "52519131"
+        },
+        {
+          "name": "おにぎらず",
+          "crewid": "-"
+        },
+        {
+          "name": "でぃばにけ",
+          "crewid": "-"
+        },
+        {
+          "name": "まこーらいつもありがとう",
+          "crewid": "-"
+        }
+      ]
+    },
+    {
+      "data_count": 346,
+      "music_id": "2a1cb30dfe3264f6f9441a6853ff4ba1",
+      "music_title": "WARNING×WARNING×WARNING",
       "diff": "inf",
       "date_value": 1777734000000,
       "display_date": "2026/05/03",
