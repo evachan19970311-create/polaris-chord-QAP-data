@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1777807632393,
-    "isoString": "2026-05-03T11:27:12.393Z",
-    "formatted": "2026-05-03 20:27:12"
+    "timestamp": 1777812048213,
+    "isoString": "2026-05-03T12:40:48.213Z",
+    "formatted": "2026-05-03 21:40:48"
   },
   "qap_data": [
     {
@@ -8999,6 +8999,32 @@
         {
           "name": "まこーらいつもありがとう",
           "crewid": "-"
+        }
+      ]
+    },
+    {
+      "data_count": 347,
+      "music_id": "8d396814860290d65d98b95bb3329700",
+      "music_title": "粛聖!! ロリ神レクイエム☆",
+      "diff": "inf",
+      "date_value": 1777734000000,
+      "display_date": "2026/05/03",
+      "members": [
+        {
+          "name": "くぜあいりす",
+          "crewid": "52519131"
+        },
+        {
+          "name": "さまよい",
+          "crewid": "-"
+        },
+        {
+          "name": "おにぎらず",
+          "crewid": "-"
+        },
+        {
+          "name": "とっち～",
+          "crewid": "32191719"
         }
       ]
     }
