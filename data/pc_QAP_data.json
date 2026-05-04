@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1777875004068,
-    "isoString": "2026-05-04T06:10:04.068Z",
-    "formatted": "2026-05-04 15:10:04"
+    "timestamp": 1777875315323,
+    "isoString": "2026-05-04T06:15:15.323Z",
+    "formatted": "2026-05-04 15:15:15"
   },
   "qap_data": [
     {
@@ -9103,6 +9103,32 @@
         {
           "name": "さまよい",
           "crewid": "68207041"
+        }
+      ]
+    },
+    {
+      "data_count": 351,
+      "music_id": "77b0f98b7f247b0251da420959ed4717",
+      "music_title": "Crossfade",
+      "diff": "inf",
+      "date_value": 1777820400000,
+      "display_date": "2026/05/04",
+      "members": [
+        {
+          "name": "Ｓｈｕｎ♪",
+          "crewid": "-"
+        },
+        {
+          "name": "ＫＴ！？！",
+          "crewid": "-"
+        },
+        {
+          "name": "でぃばにけ",
+          "crewid": "-"
+        },
+        {
+          "name": "Ｂａｎｏｔａ",
+          "crewid": "64821813"
         }
       ]
     }
