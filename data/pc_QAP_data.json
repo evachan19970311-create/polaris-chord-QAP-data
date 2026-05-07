@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1778152152760,
-    "isoString": "2026-05-07T11:09:12.760Z",
-    "formatted": "2026-05-07 20:09:12"
+    "timestamp": 1778156232653,
+    "isoString": "2026-05-07T12:17:12.653Z",
+    "formatted": "2026-05-07 21:17:12"
   },
   "qap_data": [
     {
@@ -9181,6 +9181,32 @@
         {
           "name": "さまよい",
           "crewid": "68207041"
+        }
+      ]
+    },
+    {
+      "data_count": 354,
+      "music_id": "3527ed35d8f0733efc20c590e1de5ba2",
+      "music_title": "SUPER HEROINE!!",
+      "diff": "inf",
+      "date_value": 1778079600000,
+      "display_date": "2026/05/07",
+      "members": [
+        {
+          "name": "Ｔ＄ＵＫ∀ＮＡ",
+          "crewid": "-"
+        },
+        {
+          "name": "ひなの",
+          "crewid": "-"
+        },
+        {
+          "name": "でぃばにけ",
+          "crewid": "-"
+        },
+        {
+          "name": "さまよい",
+          "crewid": "-"
         }
       ]
     }
