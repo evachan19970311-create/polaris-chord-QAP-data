@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1778331600969,
-    "isoString": "2026-05-09T13:00:00.969Z",
-    "formatted": "2026-05-09 22:00:00"
+    "timestamp": 1778331718036,
+    "isoString": "2026-05-09T13:01:58.036Z",
+    "formatted": "2026-05-09 22:01:58"
   },
   "qap_data": [
     {
@@ -9259,6 +9259,32 @@
         {
           "name": "ええヤツ",
           "crewid": "-"
+        }
+      ]
+    },
+    {
+      "data_count": 357,
+      "music_id": "55dcb7f0657cfa3907c6016fc1ed82ce",
+      "music_title": "魔法少女とチョコレゐト (絲依とい Cover)",
+      "diff": "inf",
+      "date_value": 1778252400000,
+      "display_date": "2026/05/09",
+      "members": [
+        {
+          "name": "おにぎらず",
+          "crewid": "-"
+        },
+        {
+          "name": "くぜあいりす",
+          "crewid": "52519131"
+        },
+        {
+          "name": "ｓｐａｄｅ",
+          "crewid": "10615451"
+        },
+        {
+          "name": "ぶよどん",
+          "crewid": "24418695"
         }
       ]
     }
