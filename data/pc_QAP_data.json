@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1778496685281,
-    "isoString": "2026-05-11T10:51:25.281Z",
-    "formatted": "2026-05-11 19:51:25"
+    "timestamp": 1778497113139,
+    "isoString": "2026-05-11T10:58:33.139Z",
+    "formatted": "2026-05-11 19:58:33"
   },
   "qap_data": [
     {
@@ -3248,7 +3248,7 @@
         },
         {
           "name": "たかせりお",
-          "crewid": "-"
+          "crewid": "34229664"
         },
         {
           "name": "さまよぉる",
