@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1778498266251,
-    "isoString": "2026-05-11T11:17:46.251Z",
-    "formatted": "2026-05-11 20:17:46"
+    "timestamp": 1778501310301,
+    "isoString": "2026-05-11T12:08:30.301Z",
+    "formatted": "2026-05-11 21:08:30"
   },
   "qap_data": [
     {
@@ -9337,6 +9337,32 @@
         {
           "name": "くぜあいりす",
           "crewid": "52519131"
+        }
+      ]
+    },
+    {
+      "data_count": 360,
+      "music_id": "609970ef44db1e3ba5e1cc035bac431f",
+      "music_title": "ダーリンダンス",
+      "diff": "inf",
+      "date_value": 1778425200000,
+      "display_date": "2026/05/11",
+      "members": [
+        {
+          "name": "ひなの",
+          "crewid": "-"
+        },
+        {
+          "name": "はた",
+          "crewid": "-"
+        },
+        {
+          "name": "Ｔ＄ＵＫ∀ＮＡ",
+          "crewid": "32071900"
+        },
+        {
+          "name": "さまよい",
+          "crewid": "-"
         }
       ]
     }
