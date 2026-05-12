@@ -1,9 +1,9 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1778554293603,
-    "isoString": "2026-05-12T02:51:33.603Z",
-    "formatted": "2026-05-12 11:51:33"
+    "timestamp": 1778554334213,
+    "isoString": "2026-05-12T02:52:14.213Z",
+    "formatted": "2026-05-12 11:52:14"
   },
   "qap_data": [
     {
@@ -7010,7 +7010,7 @@
       "members": [
         {
           "name": "あまねＰＯＹＯＴ４",
-          "crewid": "-"
+          "crewid": "51588901"
         },
         {
           "name": "かわうそ＠リハビリ",
