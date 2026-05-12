@@ -1,13 +1,13 @@
 {
   "updated_at": {
     "status": "success",
-    "timestamp": 1778554521974,
-    "isoString": "2026-05-12T02:55:21.974Z",
-    "formatted": "2026-05-12 11:55:21"
+    "timestamp": 1778573272559,
+    "isoString": "2026-05-12T08:07:52.559Z",
+    "formatted": "2026-05-12 17:07:52"
   },
   "total_qap_record_count": 360,
-  "total_user_count": 23,
-  "total_counted_user_qap_count": 897,
+  "total_user_count": 24,
+  "total_counted_user_qap_count": 908,
   "user_counts": {
     "10615451": 72,
     "17468220": 9,
@@ -30,6 +30,7 @@
     "60130133": 2,
     "63540148": 39,
     "64821813": 5,
+    "66980949": 11,
     "68207041": 46,
     "72244774": 167
   }
